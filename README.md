@@ -2,6 +2,8 @@
 
 ![Build Status](https://travis-ci.org/sstur/react-rte.svg?branch=master)
 
+Fork of react-rte combining Browserify and Image support. 
+
 This is a UI component built completely in React that is meant to be a full-featured textarea replacement similar to [CKEditor][ckeditor], [TinyMCE][tinymce] and other [rich text "WYSIWYG" editors][rte]. It's based on the excellent, open source [Draft.js][draft-js] from Facebook which is performant and production-tested.
 
 ## Demo
